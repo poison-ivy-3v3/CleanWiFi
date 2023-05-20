@@ -49,7 +49,7 @@ def delete_files():
     print("     `-'       `--'")
     print(" ")
     print("~~~ Thank you for cleaning up all your dirty packets! ~~~")
-	  print(" ")
+    print(" ")
 
 # Call the function to start deleting the files
 delete_files()
